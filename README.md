@@ -1,2 +1,2 @@
-# giggle-cards
+# Giggle cards
 A fun, light-hearted game to laughter.
